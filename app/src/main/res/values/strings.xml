@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">City cleaner</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="not_registered" />
+    <string name="notregistered">not_registered</string>
+    <string name="Register">Register</string>
+    <string name="NOTREGISTERED">NOTREGISTERED</string>
+    <string name="ConfirmPassword">Confirm Password</string>
+    <string name="alreadyregisterd">Already Registered?</string>
+    <string name="log">Login</string>
+    <string name="Vidyaranyapuram">Vidyaranyapuram</string>
+    <string name="Ashokapuram">Ashokapuram</string>
+    <string name="Kuvempunagar">Kuvempunagar</string>
+    <string name="RTO">RTO</string>
+    <string name="mall_of_mysore">Mall of Mysore</string>
+    <string name="Siddarthalayout">Siddartha Layout</string>
+    <string name="busstand">Busstand</string>
+    <string name="railwaystation">Railwaystation</string>
+    <string name="gokulam">Gokulam</string>
+    <string-array name="names">
+        <item>Vidyaranyapuram</item>
+        <item>Ashokapuram</item>
+        <item>Kuvempunagar</item>
+        <item>RTO</item>
+        <item>Mall of Mysore</item>
+        <item>Siddartha Layout</item>
+        <item>Busstand</item>
+        <item>Railwaystation</item>
+        <item>suraj</item>
+
+    </string-array>
+</resources>
